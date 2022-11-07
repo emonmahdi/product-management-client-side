@@ -1,0 +1,42 @@
+[
+    {
+     "name":"Mouse logitech",
+     "img": "https://i.ibb.co/PTJmp5g/p2.png",
+     "price": "600" 
+    },
+    {
+     "name":"Mouse Pad",
+     "img": "https://i.ibb.co/r6ftSmX/p3.jpg",
+     "price": "200" 
+    },
+    {
+     "name":"Keyboard",
+     "img": "https://i.ibb.co/fCcP1Wm/p4.png",
+     "price": "700" 
+    },
+    {
+     "name":"Web Cam",
+     "img": "https://i.ibb.co/8Xdv5dH/p5.jpg",
+     "price": "1700" 
+    },
+    {
+     "name":"Data Cable",
+     "img": "https://i.ibb.co/pPWjwFY/p7.jpg",
+     "price": "500" 
+    },
+    {
+     "name":"Sound Box",
+     "img": "https://i.ibb.co/5nMg3b5/p8.jpg",
+     "price": "1200" 
+    },
+    {
+     "name":"Portable Cable",
+     "img": "https://i.ibb.co/2Sqg4TR/p9.jpg",
+     "price": "300" 
+    },
+    {
+     "name":"Head Phones",
+     "img": "https://i.ibb.co/8KNNqrX/p1.jpg",
+     "price": "1300" 
+    }
+]
